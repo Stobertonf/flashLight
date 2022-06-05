@@ -21,6 +21,10 @@ além de ligar a lanterna do celular ao apertar no botão, também usamos o acel
 
 ⚡ Este projeto foi finalizado no dia 03/06/2022, porém, acredito que ainda é necessário fazer alguns ajustes.
 
+## Objetivo
+
+🤔 Ao fazer este curso e projeto, meu principal objetivo é aprender uma tecnologia nova  para que eu possa aprender a consumir recursos do React Native no Flutter.
+
 ## Observação
 😰 Eu ainda estou aprendendo a utilizar o React Native, então, caso você encontre algum erro ou conheça uma forma de melhorar meu App, fique a vontade para me ensinar.
 
